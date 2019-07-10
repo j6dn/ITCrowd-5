@@ -51,3 +51,34 @@ to play and it went bang. I sent one of my techs to have a look and he came back
 somehow, none of us know how, the CD did in fact shatter in the drive, pieces of the PC case 
 were fractured and when we pulled it apart, there were pieces of CD scattered throughout 
 the case. To this day we have never seen or heard of another example of this happening.
+
+## IT Work
+IT professionals do a variety of work sometimes not entirely in the “IT field” as popular opinion 
+would suggest. The IT professional interviewed for this assignment is a Team Leader within a 
+Queensland Government department, who is responsible for overseeing functions of the Service 
+Desk which is the first point of contact for clients.
+The role of a Service Desk Team Leader performs a wide range of functions including managing call 
+volumes, providing guidance and training to staff, rostering and liaising between different groups to 
+get the job done. It is a very dynamic role requiring skills in multiple fields not necessarily just in IT.
+Interaction with clients is the most common type of interaction when working on the Service Desk. 
+The Team Leader role has a wider level of interacting as this role is responsible for coordination of 
+various tasks throughout the IT department as a whole. At times there are Very Important Person 
+(VIP) requests which typically need progressing more urgently than regular jobs. To achieve this the 
+Team Leader will oversee the resolution to the job and escalate the job if it is not progressing at a 
+reasonable speed.
+At times there are jobs with complex requirements such as a new system rollout which need greater 
+scrutiny from specialist areas before it is released to be used by the client. This will involve liaising 
+with Security, Networks or Workplace Technology who is responsible for packaging the software for 
+easy install by the client.
+Occasionally hardware will break which requires a service call placed to the vendor who will repair 
+the item. The Team Leader will coordinate with external stakeholders such as Dell and HP to ensure 
+availability of service personnel and adequate spare parts are kept in stock for the models used by 
+the clients.
+The majority of the time, the Team Leader spends organising staff availability and various HR duties 
+and liaising between staff and various support groups. While this is an IT role by definition, a large 
+percentage of time is spent doing traditional managerial duties.
+White the Team Leader did mention anything specific about being most challenging, the role 
+certainly appears to need a person capable of remaining calm in difficult situations and being able to 
+make quick decisions which will need to stand up to scrutiny if something was to go wrong later. The 
+nature of this role makes it evident the right person requires ample workplace experience in IT and 
+management to be a successful Team Leader.
