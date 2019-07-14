@@ -11,7 +11,7 @@ I originally come from the Netherlands, was raised in England until around 13 ye
 
 Although my knowledge of games is large, my knowledge of how they work and how other systems work is something i have yet to discover, this is the main reason i’m doing this course, so that i may build knowledge of how different systems opperate and then be able to modify/ improve them. I plan on finding a job within the Cyber Security side of things as i believe as the world becomes more digital it also becomes more vulnerable.
 
-### Alexander Edmondson S3403540
+### Alexander Edmondson - S3403540
 My name is Alexander Edmondson I was originally born in Wollongong, but now reside in Bayside, Melbourne. This subject is one of the last in my bachelor of business (financial planning). I am interested in IT however most of my 
 interest (when it comes to employment) is in equities trading. That is where I am currently 
 employed. However, I do enjoy playing video games on my PC, listening to music and 
