@@ -19,17 +19,8 @@ generally surfing the web. In the FX industry there are many platforms that are 
 is where this subject and my interest in IT will come through and help me in future 
 employment
 
-### Team Profile
-Reading the test outcomes of each group member enables the group to gain a thorough 
-understanding of individual strengths and weaknesses. This information is useful in enabling the 
-group to working effectively while minimising stresses placed on individuals. As a group we are able 
-to be better organised and take part in successful collaborative task completion which will result in a 
-confidence boost for all involved.
+### Group Processes
+In Assignment 2, we initially had a problem with two of the team members did not respond at all. We gave them a week to join the Discord chat after which we assigned tasks and started working on the project without them. At this time, we had four team members which was enough to carry out the assignment. The system we have in place works well for us so there are no changes to be introduced for Assignment 3.
 
-### Ideal Jobs
-Members of the group have varied ideal jobs. This is impacted by a variety of reasons such as current 
-age, experience and education level. The group members have different job targets however there 
-are common areas of all ideal jobs. Common elements which are found, is that all jobs are in the 
-Information Technology field and for all these jobs, the group members lack qualifications or 
-experience. As this is for an ideal job the lacking of qualifications and experiences is to be expected 
-as generally most people throughout life tend to strive for a higher goal and job satisfaction.
+### Career Plans
+Members of the group have inspiration which differ from one another. The ideal jobs of the team member are at different areas of the IT industry but the common are from everyone is their desire to work in the IT industry. Currently, the group members lack qualifications or experience for their ideal job and have taken action to remedy this by undertaking studying. 
