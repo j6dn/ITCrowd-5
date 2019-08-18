@@ -6,11 +6,6 @@ My name is Igor Corovic and my student number is S3799257.  I speak Serbian but 
 ### Jayden Kube - S3803380
 Hi my name is Jayden Kube and my IT interest began at a young age when my Pop introduced me to his PC, at the time it was the most fascinating thing to me and still is to this day. The fact I was able to do everything I wanted on a computer just blew my mind. I could listen to music, create visuals, do schoolwork, browse the internet and do my favourite thing at the time and play Adventure Quest. From this when I learnt how to use most of the built-in programs, and I became fascinated with Windows Movie Maker and I used to make basic slideshow type videos with photos my family took and burn it to a DVD and sell it to them for $5 each. I then went on to using Adobe After Effects and editing videos for YouTube and gained experience in using it which I can still do to this day.
 
-### Alexander Loos - S3807721
-I originally come from the Netherlands, was raised in England until around 13 years old then moved here to be closer to family, i was raised around technology and what sparked my curiosity in Tech and gaming was a series known as Call of Duty, i would play it every chance i got as a small child, this was the starting point to me owning every game i could find and get. Then when Medal of Hounor and Battlefield came into the light i played all of them, i now own every MOH and BAttlefield title ever made, yes, even Battlefield free to play.
-
-Although my knowledge of games is large, my knowledge of how they work and how other systems work is something i have yet to discover, this is the main reason i’m doing this course, so that i may build knowledge of how different systems opperate and then be able to modify/ improve them. I plan on finding a job within the Cyber Security side of things as i believe as the world becomes more digital it also becomes more vulnerable.
-
 ### Alexander Edmondson - S3403540
 My name is Alexander Edmondson I was originally born in Wollongong, but now reside in Bayside, Melbourne. This subject is one of the last in my bachelor of business (financial planning). I am interested in IT however most of my 
 interest (when it comes to employment) is in equities trading. That is where I am currently 
@@ -23,4 +18,4 @@ employment
 In Assignment 2, we initially had a problem with two of the team members did not respond at all. We gave them a week to join the Discord chat after which we assigned tasks and started working on the project without them. At this time, we had four team members which was enough to carry out the assignment. The system we have in place works well for us so there are no changes to be introduced for Assignment 3.
 
 ### Career Plans
-Members of the group have inspiration which differ from one another. The ideal jobs of the team member are at different areas of the IT industry but the common are from everyone is their desire to work in the IT industry. Currently, the group members lack qualifications or experience for their ideal job and have taken action to remedy this by undertaking studying. 
+Members of the group have inspiration which differ from one another. The ideal jobs of the team member are at different areas of the IT industry but the common are from everyone is their desire to work in the IT industry. Currently, the group members lack qualifications or experience for their ideal job and have taken action to remedy this by undertaking studying.
